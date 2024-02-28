@@ -27,6 +27,7 @@ Follow these steps to get your development environment set up:
     python server.py
     ```
 4. **Run the video client**
+
    Open index.html in a browser. Or alternatively serve it on a port of your choice, e.g. on port 8000 via python -m http.server 8000.
    
 5. **Alternatively for just the metadata, run the metdata client**
