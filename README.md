@@ -1,5 +1,5 @@
 # LOOKOUT Minimal Integration/Interface Illustration
-
+![Screenshot (81)](https://github.com/Ben93kie/LOOKOUT_Minimal_Integration/assets/64975055/0ea60182-1103-401f-a021-8a914ad5714d)
 ## Overview
 
 This repository contains the code for a server-client setup designed to showcase the integration between LOOKOUT and another system. Video and detected objects are streamed out using websocket and JSON.
