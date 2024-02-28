@@ -18,7 +18,7 @@ Follow these steps to get your development environment set up:
     ```sh
     git clone https://github.com/Ben93kie/LOOKOUT_Minimal_Integration.git
     ```
-2. **Install the requirements**
+2. **Cd into the directory and install the requirements**
    ```sh
     pip install -r requirements.txt
     ```
